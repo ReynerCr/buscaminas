@@ -1,0 +1,40 @@
+body
+{
+    margin: 20px auto;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 95vw;
+}
+
+.td
+{
+    width: 40px;
+    height: 40px;
+    margin: 0.5px 0px;
+}
+
+table
+{
+    display: inline-block;
+}
+
+.celda
+{
+    background-color: #aaa;
+    border: 1px solid black;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.celda:hover
+{
+    background-color: #ccc;
+    cursor: pointer;
+}
+
+.celdasJuego
+{
+    width: 100%;
+}
