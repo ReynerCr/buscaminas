@@ -1,7 +1,6 @@
 DATOS DE ESTUDIANTE:
 
 Nombres y apellidos: Reyner David Contreras Rojas.
-C.I: V.-26934400
 Programación II sección 02.
 
 La base de datos es el archivo "buscaminas.sql" y la colación es utf8mb4_general_ci
